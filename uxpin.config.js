@@ -192,6 +192,8 @@ module.exports = {
           'src/components/Slider/Slider.js',
           'src/components/Snackbar/Snackbar.js',
           'src/components/Toolbar/Toolbar.js',
+          'src/components/InputBase/InputBase.js',
+          'src/components/SupporterHubSearch/SupporterHubSearch.js',
         ],
       },
     ],
